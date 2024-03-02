@@ -2,6 +2,16 @@
 
 this project is intended to allow to record and play in loop incoming video from webcam or screen sharing, making possible to be a tool for live visuals 
 
+## build 
+
+> npm install
+ 
+> npx webpack
+
+## run
+
+you can run as you want, but for midi permissions you might need to serve this in a secure way
+
 ## key shorcuts
 
 
