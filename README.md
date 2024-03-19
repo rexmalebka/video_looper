@@ -28,8 +28,6 @@ you can run as you want, but for midi permissions you might need to serve this i
 
 ## To-do 
 
-- scale video 
 - blend modes 
-- bind midi / midi select
 - save midi binding 
-- test media record best 
+- test media record best codec
