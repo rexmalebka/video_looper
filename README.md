@@ -2,6 +2,9 @@
 
 this project is intended to allow to record and play in loop incoming video from webcam or screen sharing, making possible to be a tool for live visuals 
 
+![Captura desde 2024-03-18 21-05-35](https://github.com/rexmalebka/video_looper/assets/17996715/0f97248e-f402-497e-b96d-2e87cea2df96)
+
+
 ## build 
 
 > npm install
